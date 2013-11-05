@@ -1,10 +1,10 @@
-maquette-intra
+Maquette-intra
 ==============
 
 Les propositions de maquettes de l'intranet des poussins de 42
 
 Mode d'emploi
-==============
+------------
 
 1. Si ce n'est pas déja fait, [créez vous un compte sur github](https://github.com/join)
 2. Clonez ce dépot avec la commande `git clone git@github.com:Poussins-42/maquette-intra.git`
@@ -15,7 +15,7 @@ Mode d'emploi
 7. Pour push vos fichiers sur le serveur, `git push origin <branche>` (votre uid) **et non pas** `master` **(qui est la branche principale)**
 
 Autres choses
-==============
+-----------
 
 - Pour aller sur une branche, c'est `git checkout <nom_de_la_branche>`. Ne faites **surtout pas** un `git checkout` seul, ça va tout simplement annuler toutes les modifications depuis votre dernier `git add`.
 - Pour lister toutes les branches, faites un `git branch`
