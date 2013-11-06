@@ -1,5 +1,5 @@
 <?php
-
+include_once 'model/model.php';
 include_once 'model/Intervention.php';
 
 Class User {
